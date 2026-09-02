@@ -1,0 +1,1 @@
+This repository shows a point that I made to Claire: if y=constant line passes through all individual error bars in the x-y plane, hierarchical model can learn the population level correlation between x and y, and can rule out no correlation at high credibility.
